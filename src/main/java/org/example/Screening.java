@@ -24,6 +24,7 @@ public class Screening {
     }
 
     public LocalDateTime getStartTime(){
+
         return whenScreened;
     }
 
